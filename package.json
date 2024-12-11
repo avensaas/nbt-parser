@@ -1,7 +1,7 @@
 {
-  "name": "nbt-parser",
+  "name": "@smpsaas/nbt-parser",
   "version": "0.1.1",
-  "description": "Minecraft NBT (NamedBinary Tags) parser for Node.js",
+  "description": "Minecraft NBT (NamedBinary Tags) parser for Node.js with Typescript support (Credits to Tigercrl)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tigercrl/nbt-parser.git"
+    "url": "git+https://github.com/avensaas/nbt-parser.git"
   },
   "keywords": [
     "nbt",
@@ -25,9 +25,9 @@
   "author": "Tigercrl",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/Tigercrl/nbt-parser/issues"
+    "url": "https://github.com/avensaas/nbt-parser/issues"
   },
-  "homepage": "https://github.com/Tigercrl/nbt-parser#readme",
+  "homepage": "https://github.com/avensaas/nbt-parser#readme",
   "devDependencies": {
     "@types/pako": "^2.0.3",
     "typescript": "^5.5.4"
