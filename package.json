@@ -1,5 +1,5 @@
 {
-  "name": "@smpsaas/nbt-parser",
+  "name": "@avensaas/nbt-parser",
   "version": "0.1.1",
   "description": "Minecraft NBT (NamedBinary Tags) parser for Node.js with Typescript support (Credits to Tigercrl)",
   "main": "dist/index.js",

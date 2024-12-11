@@ -1,4 +1,4 @@
-# @smpsaas/nbt-parser
+# @avensaas/nbt-parser
 
 Minecraft NBT (NamedBinary Tags) parser for Node.js with Typescript support
 
@@ -11,16 +11,16 @@ Minecraft NBT (NamedBinary Tags) parser for Node.js with Typescript support
 ## Installation
 
 ```
-npm install @smpsaas/nbt-parser
+npm install @avensaas/nbt-parser
 ```
 
 ## Usage
 
 ```typescript
 // Importing
-const NBT = require("@smpsaas/nbt-parser");
+const NBT = require("@avensaas/nbt-parser");
 // or
-import NBT from "@smpsaas/nbt-parser";
+import NBT from "@avensaas/nbt-parser";
 
 // Parse NBT
 const nbt = NBT.parseJSON({ key: "value" });
